@@ -1,0 +1,28 @@
+.boxModel {
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    border-color: blue;
+    border-style: solid;
+}
+.boxModel p {
+    border: 3px dotted yellow;
+    padding: 30px;
+    font-size: 10px;
+}
+
+#boxModelP1 {
+    margin-bottom: 100px;
+}
+#boxModelP2 {
+    margin-bottom: 80px;
+}
+#boxModelP3 {
+    margin-bottom: 60px;
+}
+#boxModelP4 {
+    margin-bottom: 40px;
+}
+#boxModelP5 {
+    margin-bottom: 20px;
+}
